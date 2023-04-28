@@ -11,7 +11,7 @@ The dataset contains about 45,000 tweets about COVID 19 collected in 2020 separa
 
 `corona_sample_submission.csv` is an example of how a submission prediction results should look like. You need to replace sentiment predictions in this file with predictions produced by your own model.
 
-Columns:
+Features description:
 
 - **UserName** - login of a user.
 - **ScreenName** - screen name of a user.
