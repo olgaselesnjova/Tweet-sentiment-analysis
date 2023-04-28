@@ -1,5 +1,6 @@
 # Tweet sentiment prediction 
 **Competition on Kaggle:** https://www.kaggle.com/competitions/gsom-23sm1-ml-hometask-2/overview
+
 **Datset:** about 45,000 tweets about COVID 19 collected in 2020 manually labelled with sentiments
 
 The dataset contains about 45,000 tweets about COVID 19 collected in 2020 separated into two files: train and test data sets.The tweets were manually labelled with 5 sentiment labels: 'Extremely Negative', 'Negative', 'Neutral', 'Positive', 'Extremely Positive'.
