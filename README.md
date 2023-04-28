@@ -5,11 +5,11 @@
 
 The dataset contains about 45,000 tweets about COVID 19 collected in 2020 separated into two files: train and test data sets.The tweets were manually labelled with 5 sentiment labels: 'Extremely Negative', 'Negative', 'Neutral', 'Positive', 'Extremely Positive'.
 
-corona_train.csv contains tweets with the target variable (Sentiment) included. You should use these data to train your models and check their quality before making a submission.
+`corona_train.csv` contains tweets with the target variable (Sentiment) included. You should use these data to train your models and check their quality before making a submission.
 
-corona_test.csv contains tweets without associated values of the target variable. You should predict sentiments for every tweet from this file and upload the results to Kaggle. Correct answers are already stored in the system, and the system will use these answers to evaluate the quality of your solution.
+`corona_test.csv` contains tweets without associated values of the target variable. You should predict sentiments for every tweet from this file and upload the results to Kaggle. Correct answers are already stored in the system, and the system will use these answers to evaluate the quality of your solution.
 
-corona_sample_submission.csv is an example of how a submission prediction results should look like. You need to replace sentiment predictions in this file with predictions produced by your own model.
+`corona_sample_submission.csv` is an example of how a submission prediction results should look like. You need to replace sentiment predictions in this file with predictions produced by your own model.
 
 Columns:
 
