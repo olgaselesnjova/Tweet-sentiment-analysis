@@ -13,10 +13,13 @@ corona_sample_submission.csv is an example of how a submission prediction result
 
 Columns:
 
-UserName - login of a user.
-ScreenName - screen name of a user.
-Location - location of a tweet.
-Tweet At - date of a tweet.
-Original Tweet - text of the original tweet.
-Sentiment - sentiment in a tweet.
-Usernames and screen names were hidden to avoid any privacy concerns.
+- **UserName** - login of a user.
+- **ScreenName** - screen name of a user.
+- **Location** - location of a tweet.
+- **Tweet At** - date of a tweet.
+- **Original Tweet** - text of the original tweet.
+- **Sentiment** - sentiment in a tweet.
+- **Usernames** and **screen names** were hidden to avoid any privacy concerns.
+
+## Result: 
+XGBClassifier: Accuracy = 0.60260 in private leaderboard
